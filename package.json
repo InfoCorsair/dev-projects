@@ -1,0 +1,20 @@
+{
+  "name": "project-fractal",
+  "version": "1.0.0",
+  "description": "Webhook script to extract and interpolate data fields across Airtable, Fabman, and 3dPrinterOS APIs",
+  "homepage": "https://github.com/InfoCorsair/game-dev-projects#readme",
+  "bugs": {
+    "url": "https://github.com/InfoCorsair/game-dev-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfoCorsair/game-dev-projects.git"
+  },
+  "license": "ISC",
+  "author": "Brendan Schweichler",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
