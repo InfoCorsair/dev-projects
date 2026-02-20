@@ -1,5 +1,6 @@
 # Project Fractal
 
+This project aims to store data records from a JSON form data endpoint (google form) and sort them into their respective destination endpoints (fabman & 3dPrinterOS)
 A basic Node.js project structure.
 
 ## Getting Started
