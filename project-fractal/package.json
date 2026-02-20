@@ -1,0 +1,27 @@
+{
+  "name": "project-fractal",
+  "version": "1.0.0",
+  "description": "A webhook project transferring and interpolating form data to Fabman and 3dPrinterOS",
+  "keywords": [],
+  "homepage": "https://github.com/InfoCorsair/game-dev-projects#readme",
+  "bugs": {
+    "url": "https://github.com/InfoCorsair/game-dev-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfoCorsair/game-dev-projects.git"
+  },
+  "license": "ISC",
+  "author": "Brendan Schweichler",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.4",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
