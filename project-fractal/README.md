@@ -1,11 +1,12 @@
-# Project Fractal
+#Shifted focus of project to another repo
+~~# Project Fractal~~
 
-This project aims to store data records from a JSON form data endpoint (google form) and sort them into their respective destination endpoints (fabman & 3dPrinterOS)
-A basic Node.js project structure.
+~~This project aims to store data records from a JSON form data endpoint (google form) and sort them into their respective destination endpoints (fabman & 3dPrinterOS)
+A basic Node.js project structure.~~
 
-## Getting Started
+~~## Getting Started~~
 
-1. Install dependencies (if any):
+~~1. Install dependencies (if any):~~
    ```bash
    npm install
    ```
@@ -15,7 +16,7 @@ A basic Node.js project structure.
    npm start
    ```
 
-3. For development with watch mode:
+~~3. For development with watch mode:~~
    ```bash
    npm run dev
    ```
