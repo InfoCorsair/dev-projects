@@ -1,4 +1,4 @@
-#Shifted focus of project to another repo
+# Shifted focus of project to another repo
 ~~# Project Fractal~~
 
 ~~This project aims to store data records from a JSON form data endpoint (google form) and sort them into their respective destination endpoints (fabman & 3dPrinterOS)
